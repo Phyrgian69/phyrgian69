@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fajri 👋</h1>
+<p align="center">
+  <b>Developer | iOS | Web | Python</b>
+</p>
 
-<!--
-**Phyrgian69/phyrgian69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Saya adalah developer yang memiliki pengalaman dalam pengembangan web, aplikasi iOS, dan scripting menggunakan Python.  
+Terbiasa belajar secara mandiri, membangun project dari nol, serta fokus pada pemahaman konsep dan efisiensi solusi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Fokus: Web Development & iOS Development  
+- 🐍 Menggunakan Python untuk automation & problem solving  
+- 🧠 Tertarik pada sistem, logika, dan pengembangan aplikasi  
+- 🎯 Tujuan: Menjadi developer yang solid, adaptable, dan impactful  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Mobile:** iOS Development (Swift / SwiftUI - basic to intermediate)  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Exploring:** Advanced JavaScript & scalable application structure  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phyrgian69&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyrgian69&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Core Principles
+- Konsistensi dalam belajar dan membangun  
+- Memahami konsep sebelum implementasi  
+- Menyelesaikan masalah secara efisien  
+
+---
+
+## 📌 Highlight
+- Membangun aplikasi berbasis web dan iOS secara mandiri  
+- Menggunakan Python untuk automation dan problem solving  
+- Terbiasa menggunakan Git untuk version control  
+
+---
+
+## 📫 Connect
+- Instagram: Fajriimubarok
+- Email: Fajri.mubarok122@gmail.com
+
+---
+
+## ⚡ Mindset
+> "Keep building, keep improving."
