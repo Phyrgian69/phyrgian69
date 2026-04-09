@@ -26,11 +26,8 @@ Terbiasa belajar secara mandiri, membangun project dari nol, serta fokus pada pe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phyrgian69 &show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyrgian69 &layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phyrgian69&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 Core Principles
